@@ -1,4 +1,4 @@
-# Biflouride Kinetics Calculator
+# Bifluoride Kinetics Calculator
 This calculator operates on a user-provided CSV file to model the kinetics of the thermal decomposition of a bifluoride salt (e.g. NaHF2) into a fluoride salt and hydrogen fluoride gas as a best fit curve. There are 15 possible models to choose from in the calculator (see below for info) for the sake of comparison. The source code can be compiled in a Python3 IDE (if preferred), but the calculator itself is a standalone executable that can be run from a bash shell.
 
 ## Calculator Scope:
